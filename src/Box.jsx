@@ -1,5 +1,6 @@
 import "./style.css"
 
+
 const Box = ({color}) =>{
 
     return(
